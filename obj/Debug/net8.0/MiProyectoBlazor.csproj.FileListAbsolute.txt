@@ -1,0 +1,62 @@
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.staticwebassets.runtime.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.exe
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.deps.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.runtimeconfig.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.dll
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.pdb
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.csproj.AssemblyReference.cache
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.AssemblyInfoInputs.cache
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.AssemblyInfo.cs
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.csproj.CoreCompileInputs.cache
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.MiProyectoBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.build.MiProyectoBlazor.props
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiProyectoBlazor.props
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiProyectoBlazor.props
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\bundle\MiProyectoBlazor.styles.css
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\projectbundle\MiProyectoBlazor.bundle.scp.css
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyec.DEF4E346.Up2Date
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.dll
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\refint\MiProyectoBlazor.dll
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.pdb
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.genruntimeconfig.cache
+C:\Users\shado\Desktop\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\ref\MiProyectoBlazor.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.staticwebassets.runtime.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.exe
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.deps.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.runtimeconfig.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\MiProyectoBlazor.pdb
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.MiProyectoBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.build.MiProyectoBlazor.props
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiProyectoBlazor.props
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiProyectoBlazor.props
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\bundle\MiProyectoBlazor.styles.css
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\scopedcss\projectbundle\MiProyectoBlazor.bundle.scp.css
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyec.DEF4E346.Up2Date
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\refint\MiProyectoBlazor.dll
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.pdb
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\MiProyectoBlazor.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Construccion IV\Construccion IV\MiProyectoBlazor\obj\Debug\net8.0\ref\MiProyectoBlazor.dll

@@ -1,0 +1,24 @@
+@using MiProyectoBlazor.Components;
+@inject HttpClient Http
+@code {
+    private List<Manga>? mangas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        mangas = await Http.GetFromJsonAsync<List<Manga>>("https://api.anime.com/animes");
+    }
+}
+
+@if (mangas == null)
+{
+    <p>Cargando datos...</p>
+}
+else
+{
+    <div>
+        @foreach (var manga in mangas)
+        {
+            <p>@manga.Name - @manga.Description</p>
+        }
+    </div>
+}
